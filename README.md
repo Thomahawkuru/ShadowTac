@@ -19,13 +19,6 @@ https://github.com/user-attachments/assets/36d0550c-10cc-456a-a98c-f12cc2762915
 
 ```
 ShadowTac/
-│── 📁 code/                    # Contains code to run the sensor
-│   ├── cropImage.py            # Function to crop tactile image
-│   ├── DimpleTrackingClass.py  # Class for lateral tracking of dimples
-│   ├── PhotostereoClass.py     # Class for normal tracking
-│   ├── ShadowTac.py            # Class to handle the sensor functionalities
-│   ├── ImgInitSensor.npy       # Initial position of markers (Note: must be replaced with new sensor)
-│   ├──📁 save/                 # Folder where images, videos and dimple disposition are saved
 │── 📁 CADs/                    # Contains files to print
 │   ├── sensor_base.step        # Base to mount you sensor
 │   ├── sensor_base.stl          
@@ -34,7 +27,14 @@ ShadowTac/
 │   ├── silicone_mold.step      # Mold to cast tactile membrane
 │   ├── silicone_mold.stl       
 │   ├── silicone_mold_top.step  # Top part of the silicone mold
-│   ├── silicone_mold_top.stl   
+│   ├── silicone_mold_top.stl  
+│── 📁 code/                    # Contains code to run the sensor
+│   ├── cropImage.py            # Function to crop tactile image
+│   ├── DimpleTrackingClass.py  # Class for lateral tracking of dimples
+│   ├── PhotostereoClass.py     # Class for normal tracking
+│   ├── ShadowTac.py            # Class to handle the sensor functionalities
+│   ├── ImgInitSensor.npy       # Initial position of markers (Note: must be replaced with new sensor)
+│   ├──📁 save/                 # Folder where images, videos and dimple disposition are saved 
 │── 📁 other/                   # Other useful files
 │   ├── rgb_led.ino             # Light LEDs
 │── LICENSE                     # License file
