@@ -184,9 +184,9 @@ Please cite our work if you intend to use it.
 
 
 ### Contacts
-- Giuseppe Vitrani - g.vitrani@tudelft.nl
-- Basile Pasquale - basilepsqle6@gmail.com
-- Michaël Wiertlewski - m.wiertlewski@tudelft.nl
+- **Giuseppe Vitrani**, Delft University of Technology, Cognitive Robotics Department, 2628 CD, Delft, The Netherlands - g.vitrani@tudelft.nl
+- **Basile Pasquale**, École Polytechnique Fédérale de Lausanne, Rte Cantonale, 1015 Lausanne, Switzerland - basilepsqle6@gmail.com
+- **Michaël Wiertlewski**, Delft University of Technology, Cognitive Robotics Department, 2628 CD, Delft, The Netherlands - m.wiertlewski@tudelft.nl
 
 
 # License
