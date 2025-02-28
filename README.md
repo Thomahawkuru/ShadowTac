@@ -5,10 +5,13 @@ The ShadowTac sensor uses a miniature camera to capture high-resolution images o
 
 ShadowTac is designed for easy and cost-effective manufacturing, requiring no specialized or expensive equipment. The dimple pattern can be optimized to minimize camera obstruction typical of the traditional opaque markers used for lateral tracking. Moreover, this pattern is formed directly through the molding process of the membrane, allowing seamless application on curved sensing surfaces, as opposed to opaque markers.
 
-For further information, please read our paper. [ADD LINK TO THE PAPER]
+For further information, please read our paper: [Accepted for ICRA25 - coming soon]
+
+If you intend to use our work, please cite us:
+
+[Accepted for ICRA25 - coming soon]
 
 Here is a short video highlighting the key features of the sensor:
-
 
 
 https://github.com/user-attachments/assets/36d0550c-10cc-456a-a98c-f12cc2762915
@@ -163,11 +166,11 @@ If you are using Ubuntu, the keyboard module may require admin privileges to fun
 
 ### Citation
 
-Our paper on the ShadowTac sensor can be found here: [ADD LINK TO THE PAPER]
+Our paper on the ShadowTac sensor can be found here: [Accepted for ICRA25 - coming soon]
 
 If you intend to use our work, please cite us:
 
-[ADD CITATION ONCE AVAILABLE]
+[Accepted for ICRA25 - coming soon]
 
 
 ### Contacts
