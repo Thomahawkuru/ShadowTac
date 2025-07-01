@@ -86,8 +86,8 @@ Below you can find two tables with silicone and paint compositions. Note that th
 
 | Component         | Quantity (g) | Percentage |
 |------------------|-------------|------------|
-| SilPoxy A       | 1.2         | 18%        |
-| SilPoxy B       | 1.2         | 18%        |
+| PsychoPaint A       | 1.2         | 18%        |
+| PsychoPaint B       | 1.2         | 18%        |
 | NOVOCS Matte    | 3.5         | 50%        |
 | Aluminium Powder | 0.8         | 12.5%      |
 | SilPig White    | 0.08        | 1.5%       |
