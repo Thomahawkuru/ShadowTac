@@ -97,7 +97,7 @@ Below you can find two tables with silicone and paint compositions. Note that th
 
 - **Sensor casing**: 3D printed with FDA printer. The file `sensor_casing.stl` is available in the 📁CADs folder.
 - **LED placement**: RGB LEDs are soldered and secured inside the casing using hot glue, ensuring they do not obstruct the emission cone.
-- **Silicone-casing assembly**: The PMMA-silicone assembly is affixed to the sensor casing using standard super glue. 
+- **Silicone-casing assembly**: The PMMA-silicone assembly is affixed to the sensor casing using a non-cyanoacrylate, flexible polymer adhesive to avoid fume-related fogging (e.g. using Bison Max Repair glue). 
 
 ### Camera Hardware
 - **Camera**: Basler daA1920-160uc (S-Mount).
